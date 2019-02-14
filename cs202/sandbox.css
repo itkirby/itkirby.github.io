@@ -1,0 +1,34 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+#wrap {
+	width: 70%;
+	margin: 0 auto;
+}
+
+
+/*Comment out later*/
+header, nav, section, footer {
+	background-color: #ddd;
+	/*height: 400px;*/
+	margin: 20px;
+}
+
+.redbox {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.bluebox {
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+}
+
+.billy{clear:left;}
